@@ -17,6 +17,16 @@ Membership is not required to contribute to repositories that accept public cont
 
 Each repository should state whether it is currently open to outside contributions.
 
+## Language
+
+English is the working language of the Octacity GitHub organization.
+
+Issues, pull requests, reviews, discussions, membership applications, project proposals, and other project-related communication must be written in English.
+
+Clear and understandable communication is expected, but perfect grammar or fluency is not required. Contributors are welcome to use translation or writing-assistance tools.
+
+Content written primarily in another language may be requested to be rewritten in English. If it is not updated, it may be closed or left unreviewed.
+
 ## Before Starting
 
 Open an issue before beginning any contribution.
