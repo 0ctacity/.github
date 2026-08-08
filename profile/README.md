@@ -4,6 +4,8 @@ Octacity is an open-source community organized around eight main teams. It provi
 
 The community focuses on projects that continue beyond short events, temporary groups, or one-time demonstrations. Projects are expected to develop through active contribution, maintenance, documentation, discussion, and shared responsibility.
 
+Organization-wide governance, contribution guidelines, security policies, support information, and community standards can be found in the [Octacity community files repository](https://github.com/0ctacity/.github).
+
 Octacity welcomes new members. Information about joining can be found in the [membership repository](https://github.com/0ctacity/membership).
 
 ## Organization
