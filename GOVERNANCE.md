@@ -4,17 +4,17 @@
 
 This document defines how Octacity is organized, how authority is delegated, and how decisions are made across the community.
 
-Octacity is an open-source community structured around eight main teams. The organization is guided by a steward, while team leaders manage their teams and maintaining teams direct their repositories.
+Octacity is an open-source community structured around eight main teams. The organization is guided by an Organization Lead, while team leaders manage their teams and maintaining teams direct their repositories.
 
 The governance model is designed to give teams broad independence without sacrificing organizational accountability, long-term reliability, or the health of the wider community.
 
-## The Steward
+## The Organization Lead
 
-Octacity is led by a steward.
+Octacity is led by an Organization Lead.
 
-The founder serves as the first steward and holds the highest authority within the organization. The steward is responsible for managing the organization, coordinating its team leaders, protecting its long-term direction, and taking action when necessary to preserve the community.
+The founder serves as the first Organization Lead and holds the highest authority within the organization. The Organization Lead is responsible for managing the organization, coordinating its team leaders, protecting its long-term direction, and taking action when necessary to preserve the community.
 
-The steward has final authority over:
+The Organization Lead has final authority over:
 
 - Organization membership
 - Appointment and removal of team leaders
@@ -24,11 +24,11 @@ The steward has final authority over:
 - Changes to this governance document
 - Any matter that may materially affect Octacity's safety, legality, integrity, or long-term health
 
-The steward may reject, reverse, suspend, or replace decisions made elsewhere in the organization.
+The Organization Lead may reject, reverse, suspend, or replace decisions made elsewhere in the organization.
 
 This authority exists as a safeguard, not as a requirement for routine involvement. Octacity is intended to operate with as little unnecessary micromanagement as possible. Team leaders and maintaining teams are expected to exercise their own judgment and manage their responsibilities independently.
 
-The steward intervenes when necessary, particularly where there is:
+The Organization Lead intervenes when necessary, particularly where there is:
 
 - Serious organizational risk
 - Legal or security concern
@@ -41,9 +41,9 @@ The steward intervenes when necessary, particularly where there is:
 
 The ability to intervene does not imply an intention to control every decision.
 
-## Steward Succession
+## Organization Lead Succession
 
-The current steward may appoint the next steward.
+The current Organization Lead may appoint the next Organization Lead.
 
 No broader succession mechanism is defined at this stage of Octacity's development.
 
@@ -62,11 +62,11 @@ Each team:
 
 Subteams do not replace the eight-team structure. They exist within or beneath a main team and support its work.
 
-A team leader may create subteams when useful. The steward retains the authority to object to, reorganize, or remove a subteam when necessary.
+A team leader may create subteams when useful. The Organization Lead retains the authority to object to, reorganize, or remove a subteam when necessary.
 
 ## Team Leaders
 
-Team leaders are appointed and may be removed or replaced by the steward.
+Team leaders are appointed and may be removed or replaced by the Organization Lead.
 
 A team leader has broad authority within their team. They are responsible for its organization, members, projects, repository access, internal coordination, and continued activity.
 
@@ -89,7 +89,7 @@ A team leader may delegate responsibilities to members of their team or qualifie
 
 Team leaders are expected to act in the interests of their team, its projects, and Octacity as a whole.
 
-The steward may invalidate or reverse a team leader's authority or decisions when necessary.
+The Organization Lead may invalidate or reverse a team leader's authority or decisions when necessary.
 
 ## Team Members
 
@@ -126,7 +126,7 @@ Membership follows this process:
 
 Team leaders participate in reviewing applicants and determining appropriate team placement.
 
-The steward makes the final decision on admission to the Octacity organization.
+The Organization Lead makes the final decision on admission to the Octacity organization.
 
 Applicants do not select their team as part of the application. Team placement is determined during review according to the applicant's interests, experience, potential fit, and the current needs of Octacity's teams.
 
@@ -134,7 +134,7 @@ Applicants do not select their team as part of the application. Team placement i
 
 Team leaders determine the most suitable placement for accepted members.
 
-A member may later move between teams when the relevant team leaders agree. The steward must be notified of the transfer.
+A member may later move between teams when the relevant team leaders agree. The Organization Lead must be notified of the transfer.
 
 Members remain free to contribute across teams regardless of their primary placement.
 
@@ -142,9 +142,9 @@ Members remain free to contribute across teams regardless of their primary place
 
 Repository access may be removed by the leader of the maintaining team.
 
-Team leaders may arrange a member's removal from or transfer between teams. Transfers should be coordinated with the receiving team leader and communicated to the steward.
+Team leaders may arrange a member's removal from or transfer between teams. Transfers should be coordinated with the receiving team leader and communicated to the Organization Lead.
 
-Removal from the Octacity organization is decided by the steward.
+Removal from the Octacity organization is decided by the Organization Lead.
 
 Membership may be reconsidered or ended because of:
 
@@ -174,7 +174,7 @@ Activity is not measured only by code or raw hours. Meaningful participation may
 - Reporting blockers clearly
 - Supporting other contributors
 
-The activity of members may be reviewed by the steward together with their team leaders.
+The activity of members may be reviewed by the Organization Lead together with their team leaders.
 
 Inactivity is taken seriously. A member may be removed when they remain inactive, fail to communicate, or repeatedly do not meet their agreed level of participation.
 
@@ -233,7 +233,7 @@ Repository-specific rules may define additional review requirements.
 
 A team leader may approve the creation of a new Octacity project or repository.
 
-The steward retains the authority to reject or reverse that approval.
+The Organization Lead retains the authority to reject or reverse that approval.
 
 New projects should be:
 
@@ -264,7 +264,7 @@ Octacity should not become an archive of abandoned experiments.
 
 A maintaining team may transfer a project to another team when both teams agree.
 
-The steward may intervene in a transfer when necessary.
+The Organization Lead may intervene in a transfer when necessary.
 
 When a maintaining team no longer wishes or is no longer able to continue a project, it should first seek another team willing to assume responsibility.
 
@@ -301,7 +301,7 @@ Members should explain their reasoning, provide relevant evidence, and attempt t
 
 The team leader makes the decision when consensus cannot be reached.
 
-When the team leader is directly involved in a serious disagreement, or the dispute becomes harmful or unmanageable, the steward may enter the discussion and make the final decision.
+When the team leader is directly involved in a serious disagreement, or the dispute becomes harmful or unmanageable, the Organization Lead may enter the discussion and make the final decision.
 
 ## Disagreements Between Teams
 
@@ -311,7 +311,7 @@ The maintaining team has final authority over decisions concerning its repositor
 
 Teams should avoid duplicating existing Octacity projects without a clear reason and should examine whether collaboration or extension is more appropriate than creating a competing project.
 
-The steward resolves conflicts that cannot be settled between team leaders.
+The Organization Lead resolves conflicts that cannot be settled between team leaders.
 
 ## Legal and Security Responsibility
 
@@ -331,13 +331,13 @@ This includes reasonable attention to:
 
 Repository decisions can create serious or irreversible consequences. Teams must not treat legal or security concerns casually.
 
-The steward may immediately intervene when a project, repository, release, or team action creates credible legal, security, or organizational risk.
+The Organization Lead may immediately intervene when a project, repository, release, or team action creates credible legal, security, or organizational risk.
 
 ## Governance Changes
 
-This document may only be changed with the approval of the steward.
+This document may only be changed with the approval of the Organization Lead.
 
-The steward may consult team leaders or other members before making a change but retains final authority over the governance of Octacity.
+The Organization Lead may consult team leaders or other members before making a change but retains final authority over the governance of Octacity.
 
 ## Guiding Principle
 
@@ -345,4 +345,4 @@ Octacity combines team independence with organizational accountability.
 
 Teams should be trusted to lead their work, members should be encouraged to contribute across the community, and intervention should remain limited to situations where it is genuinely needed.
 
-The steward's authority exists to protect Octacity's health, direction, and long-term reliability—not to replace the judgment and initiative of its teams.
+The Organization Lead's authority exists to protect Octacity's health, direction, and long-term reliability—not to replace the judgment and initiative of its teams.
